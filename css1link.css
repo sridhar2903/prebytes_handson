@@ -1,0 +1,55 @@
+h1{
+ font-weight: bolder;
+ color: crimson;
+ font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+#h2
+{
+    font-style: italic;
+    color: orangered;
+}
+.ol
+{
+    color: brown;
+
+}
+#un
+{
+    font-weight: bolder;
+    text-decoration-line: line-through;
+}
+#bg
+{
+    font-weight: bolder;
+    background-color: yellow;
+}
+#ud
+{
+    font-style: italic;
+    text-decoration-line: underline;
+}
+#h2i
+{
+color:orangered;   
+font-style: italic;
+}
+#u
+{
+color: brown;
+font-family: monospace;
+}
+#inu
+{
+    font-weight: bolder;
+    background-color: yellow;
+}
+#a
+{
+    font-style: italic;
+    color: orangered;
+    background-color: yellow;
+}
+.para
+{
+    color: brown;
+}
