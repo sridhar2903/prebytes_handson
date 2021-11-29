@@ -1,0 +1,162 @@
+body{
+    background-color: gray;
+}
+.welcome
+{
+ text-align: center;
+ background-color: white;
+ border: red 5px solid;
+ margin-left:500px;
+ margin-right:500px;
+ border-radius: 20px;
+ color:purple;
+ font-size: 22px;
+ font-weight: bolder;
+ font-style: italic;
+}
+.four
+{
+border:green 10px solid;
+
+}
+.address
+{
+    
+    background-color: white;
+    border: red 5px solid;
+    border-radius: 20px;
+ color:purple;
+ font-size: 22px;
+ font-weight: bolder;
+ margin-right:1250px;
+ margin-left:5px;
+ 
+}
+.img
+{
+    margin-right:1250px; ;
+    background-color: white;
+    border: red 5px solid;
+    border-radius: 20px; 
+    padding-left:27px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    position: relative;
+    left:1200px;
+    bottom:222px;
+}
+.serve
+{
+    background-color: white;
+    border: red 5px solid;
+    border-radius: 20px;  
+    margin-right:1250px; 
+    color:purple;
+    font-weight: bolder;
+    margin-left:5px;
+    position: relative;
+    top:130px;
+}
+.rate
+{
+    background-color: white;
+    border: red 5px solid;
+    border-radius: 20px;  
+    margin-right:1250px; 
+    color:purple;
+    font-weight: bolder;
+    text-align: center;
+    position: relative;
+    left:1200px;
+    bottom:100px;
+    padding-bottom: 50px;
+   
+
+}
+.storebottom
+{
+    margin-top:30px;
+    margin-right: 350px;
+    margin-left:350px;
+ text-align: center;
+ 
+    background-color: green;
+    border: purple 10px solid;
+}
+.fruits
+{
+    padding-top:10px;
+    margin-right:400px;
+    background-color:gold;
+    text-align: center;
+    
+}
+.vegetables
+{
+    padding-top:10px;
+    text-align: center;
+    margin-right:400px;
+    background-color:gold; 
+    position: relative;
+    left:395px;
+    position: relative;
+    bottom:338px;
+    z-index: 1;
+}
+.otheritems
+{
+    padding-top:10px;
+    text-align: center;  
+    background-color:gold; 
+    position: relative;
+    bottom:320px;
+    left:5px;
+    margin-bottom: -310px;
+    z-index: 1;
+}
+
+.fixed
+{
+    margin-bottom: -120px;
+    padding:20px 20px 20px 20px;
+    background-color:lime;
+    border: red 5px solid;
+    border-radius: 12px; 
+    margin-right:950px;   
+    font-size: 22px;
+    font-style: italic;  
+position: fixed;
+    top:600px;
+    right:-480px;
+    z-index: 2;
+    width: 500px;
+    height:40px;
+    
+
+}
+
+input[type="number"]::placeholder {  
+                  
+    text-align: center; 
+} 
+
+#sub
+{
+    background-color: red;
+    border-radius: 10px;
+}
+#left
+{
+    float: left;
+    text-align: center;
+    color:red;
+}
+#right
+{
+    float: right;
+    float: ;
+    font-size: 17px;
+    text-align: center;
+    color:red;
+}
