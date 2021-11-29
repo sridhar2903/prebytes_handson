@@ -1,0 +1,144 @@
+
+body{
+    
+   
+}
+.tadd
+{
+
+justify-content: center;
+position: relative;
+top:150px;
+right:140px;
+display:flex;
+
+}
+.tasklist
+{
+    
+    font-weight: bolder;
+}
+.add
+{
+    position: relative;
+    left:325px;
+    top:-20px;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:lightslategray;
+
+}
+
+
+.ptodo
+{
+    display: flex;
+    position: relative;
+    top:150px;
+    right:30px;
+    justify-content: center;
+}
+.paris
+{
+ font-size: 28px;
+ border:tomato 2px solid;
+padding-top:30px;
+padding-left: 30px;
+border-radius: 10px;
+padding-bottom: 168px;
+}
+.todo
+{
+    position: relative;
+    left: 75px;
+    font-size: 28px;
+ border:tomato 2px solid;
+padding-top:30px;
+padding-left: 30px;
+border-radius: 10px;
+padding-bottom: 150px;
+
+}
+.mylist
+{
+    position: relative;
+    left: 150px;
+    font-size: 28px;
+ border:tomato 2px solid;
+padding-top:30px;
+padding-left: 30px;
+border-radius: 10px;
+padding-bottom: 150px;
+}
+#hrl
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-right: 15px;
+    color:red;
+    text-decoration-line: line-through;
+}
+#hrl1
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-right: 15px;
+    color:red;
+    text-decoration-line: line-through;
+}
+#hrl2
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-right: 15px;
+    color:red;
+    text-decoration-line: line-through;
+}
+#pend
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 22px; 
+    position: relative;
+    top: 10px;
+}
+#pend1
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 22px; 
+    position: relative;
+    top: 10px;
+}
+#pend2
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 22px; 
+    position: relative;
+    top: 10px;
+}
+#icon
+{
+    position: relative;
+    right: 20px;
+    top:3px;
+}
+#sqicon
+{
+position: relative;
+right: 12px;
+}
+#sqicon1
+{
+    position: relative;
+right: 12px;
+}
+#sqicon2
+{
+    position: relative;
+    right: 12px;
+    
+}
+a
+{
+    text-decoration: none;
+    color:tomato;
+}
