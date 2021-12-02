@@ -1,0 +1,371 @@
+html{
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.offer
+{
+    background-image: linear-gradient(to right, red,green, yellow);
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration-line: underline;
+    position: relative;
+   
+  
+}
+
+.home
+{
+    background-color: aquamarine;
+    padding-left: 370px;
+   padding-right: 400px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border: red 5px solid;
+    border-radius: 20px;
+text-align: center;
+
+}
+
+.lorem
+{
+   background-color:aquamarine;
+  
+    border-radius: 20px;
+  
+}
+
+.lorem1
+{
+    background-color: cyan;
+    font-size: 15px;
+    font-weight: bolder;
+    height: 92px;
+    width: 400px;
+    border:green 3px solid;
+    border-radius: 10px;
+    position: relative;
+    left: 50px;
+    text-align: center;
+}
+.lorem2
+{
+    background-color: cyan;
+    font-size: 15px;
+    font-weight: bolder;
+    height: 92px;
+    width: 400px;
+    border: green  3px solid;
+    border-radius: 10px;
+    position: relative;
+    left:1070px;
+    bottom:98px;
+    text-align: center;
+}
+
+.lorem3
+{
+    background-color: cyan;
+    font-size: 15px;
+    font-weight: bolder;
+    height: 92px;
+    width: 400px;
+    border: green  3px solid;
+    border-radius: 10px;
+    position: relative;
+   left:550px;
+   bottom:197px;
+    text-align: center;
+    margin-bottom: -200px;
+}
+.lorem4
+{
+    background-color: cyan;
+    font-size: 15px;
+    font-weight: bolder;
+    height: 92px;
+    width: 400px;
+    border: green  3px solid;
+    border-radius: 10px;
+    position: relative;
+    left:550px;
+    bottom:0px;
+    text-align: center;
+    margin-bottom: ;
+}
+.top
+{
+    background-image: linear-gradient(to right, red,orange, red); 
+    text-align: center;
+    text-decoration-line:underline;
+    font-size: 20px;
+    font-weight: bolder;
+    height: 50px;
+}
+ol li{
+    list-style: none;
+    position: relative;
+    right: 35px;
+    bottom:18px;
+      margin-bottom: 0px;
+}
+
+.narayana
+{
+    background-image: radial-gradient(blue,yellowgreen,aqua); 
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    align-items: center;
+}
+.akash
+{
+    background-color: gold;
+    text-decoration-line: underline;
+    text-align: center;
+    font-weight: bolder;
+   
+    width:250px;
+    height: 150px;
+      border: red 3px solid;
+      border-radius: 20px;
+    
+}
+.rishav
+{
+    background-color: gold;
+    text-decoration-line: underline;
+    text-align: center;
+    font-weight: bolder;
+    
+    width:250px;
+    height: 150px;
+      border: red 3px solid;
+      border-radius: 20px;
+      margin-left: 150px;
+}
+.gaurav
+{
+    background-color: gold;
+    text-decoration-line: underline;
+    text-align: center;
+    font-weight: bolder;
+    width:250px;
+    height: 150px;
+      border: red 3px solid;
+      border-radius: 20px;
+      
+      margin-left: 150px;
+}
+.shivam
+{
+    background-color: gold;
+    text-decoration-line: underline;
+    text-align: center;
+    font-weight: bolder;
+ 
+    width:250px;
+    height: 150px;
+      border: red 3px solid;
+      border-radius: 20px;
+     
+      margin-left: 150px;
+}
+
+.grid
+{
+   display: grid;
+   
+}
+#the
+{
+    position: relative;
+    bottom:25px;
+
+}
+.career
+{
+    text-align: center;
+    font-size: 25px;
+    color:white;
+    background-color: red;
+    height: 60px;
+    font-weight: bolder;
+    grid-column: 1/5;
+    border: 10px solid #fff;
+}
+.section
+{
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    background-color:yellowgreen;
+    font-weight: bolder;
+    border: 10px solid #fff;
+    height: 181px;
+     
+
+}
+.course
+{
+    text-align:left;
+    font-size: 30px;
+    color:white;
+    background-color:blue;
+    font-weight: bolder;
+    border: 10px solid #fff;
+    height: 181px;
+}
+.result
+{
+    text-align:left;
+    font-size: 25px;
+    color:white;
+    background-color:blueviolet; 
+    font-weight: bolder;
+    border: 10px solid #fff;
+    height: 181px;
+}
+.dicta
+{
+    text-align:left;
+    font-size: 30px;
+    color:white;
+    background-color:goldenrod;
+    font-weight: bolder;
+     grid-column: 1/4;
+     grid-row: 3;
+     border:10px solid #fff;
+     position: relative;
+     bottom:70px;
+}
+.faculty
+{
+    
+    font-size: 20px;
+    color:white;
+    background-color:black;
+    font-weight: bolder;
+    grid-row: 2/4;
+    grid-column: 4;
+    border: 10px solid #fff;
+    position: relative;
+    left:40px;
+    margin-left: -38px;
+    position: relative;
+    height: 293px;
+    justify-content: flex-end;
+    
+    
+   
+}
+.end
+{
+    text-align: center;
+    font-size: 1rem;
+    color:white;
+    background-color:aqua;
+    font-weight: bolder;
+    grid-column: 1/5;
+    grid-row: 4;
+    border: 10px solid #fff;
+   height: 30px;
+   position: relative;
+   bottom: 80px;
+}
+#hr
+{
+    position: relative;
+    right:40px;
+    bottom: 26px;
+    
+}
+#hr1
+{
+    position: relative;
+    right:40px;
+  
+    bottom: 40px;
+    
+}
+#hr2
+{
+    position: relative;
+    right:40px;
+    
+    bottom: 52px;
+   
+}
+#hr3
+{
+    position: relative;
+    right:40px;
+    bottom: 65px;
+   
+}
+#hr4
+{
+    position: relative;
+    right:40px;
+    bottom: 83px;
+    
+}
+#hr5
+{
+    position: relative;
+    right:40px;
+    bottom: 105px;
+    
+}
+.li2
+{
+    position: relative;
+    top: -32px;
+}
+.li3
+{
+    position: relative;
+    top: -45px;
+}
+.li4
+{
+    position: relative;
+    top: -60px;
+}
+.li5
+{
+    position: relative;
+    top: -75px;
+}
+.li6
+{
+    position: relative;
+    top: -95px;
+}
+#you
+{
+    position: relative;
+    bottom: 33px;
+}
+#get
+{
+    position: relative;
+    bottom: 33px;
+}
+#we
+{
+    position: relative;
+    bottom: 28px;
+}
+#lo
+{
+    position: relative;
+    bottom: 33px;
+}
+.al
+{
+   font-size: larger;
+   font-weight: bolder;
+   position: relative;
+   bottom: 23px;
+}
