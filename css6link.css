@@ -203,3 +203,90 @@ height: 60px;
 transition-duration: 1s;
 cursor: pointer;
 }
+
+/* MEDIA QUERY FOR MOBILES */
+@media only screen and (max-width: 768px) {
+    
+    body
+    {
+       
+       background-size:auto;
+    }
+
+
+   
+  
+    .container
+    {
+       display: block;
+       width: 50%;
+       position: absolute;
+       top: 80%;
+    
+
+    
+    }
+    .navbar{
+        
+        display: block;
+    }
+
+    
+.onetwo
+{
+    
+  display: block;
+position: relative;
+
+   
+}
+
+.threefour
+{
+ display: block;
+
+}
+
+
+
+.one{
+   display: block;
+   /* padding:60px; */
+      
+ 
+    }
+    .two{
+        display: block;
+        
+        /* padding:60px; */
+       
+    }
+    
+    .three{
+   
+        display: block;
+       
+        /* padding:60px; */
+        
+    }
+    
+    .four{
+        display: block;
+        
+        /* padding:60px; */
+        
+    }
+    .explore
+    {
+        display: block;
+        width: 50%;
+       position:absolute ;
+       top:60%;
+    }
+    .lol
+    {
+        width: 100%;
+        font-size:60px;
+    }
+  
+  }
