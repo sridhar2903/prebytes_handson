@@ -193,6 +193,7 @@ ol li{
     font-weight: bolder;
     grid-column: 1/5;
     border: 10px solid #fff;
+    margin-bottom: 0;
 }
 .section
 {
@@ -204,7 +205,7 @@ ol li{
     border: 10px solid #fff;
     height: 181px;
      
-
+    margin-bottom: 0;
 }
 .course
 {
@@ -215,6 +216,7 @@ ol li{
     font-weight: bolder;
     border: 10px solid #fff;
     height: 181px;
+    margin-bottom: 0;
 }
 .result
 {
@@ -225,6 +227,7 @@ ol li{
     font-weight: bolder;
     border: 10px solid #fff;
     height: 181px;
+    margin-bottom: 0;
 }
 .dicta
 {
@@ -238,6 +241,7 @@ ol li{
      border:10px solid #fff;
      position: relative;
      bottom:70px;
+     margin-bottom: 0;
 }
 .faculty
 {
@@ -256,7 +260,7 @@ ol li{
     height: 293px;
     justify-content: flex-end;
     
-    
+    margin-bottom: 0;
    
 }
 .end
@@ -272,6 +276,7 @@ ol li{
    height: 30px;
    position: relative;
    bottom: 80px;
+   margin-bottom: 0;
 }
 #hr
 {

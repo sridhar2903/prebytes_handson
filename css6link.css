@@ -1,0 +1,205 @@
+body
+{
+   background-image: url(shara\ desert.jpg); 
+   background-size:cover;
+}
+
+.logo
+{
+    position: absolute;
+    /* width: 10px; */
+    margin: auto;
+    top:2rem ;
+    bottom: 0;
+    left: 2rem;
+    right: 0;
+   
+    /* z-index: 20; */
+}
+span
+{
+    color: white;
+    font-size: 8rem;
+    position: absolute;
+    margin: auto;
+    top:14rem ;
+    bottom: 0;
+    left: 2rem;
+    right: 0;
+}
+.sahara
+{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    margin: auto;
+    top:27rem ;
+    bottom: 0;
+    left: 2rem;
+    right: 0;
+    
+}
+
+.explore
+{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    z-index: 50;
+    top:35rem ;
+  
+    left: 2rem;
+    
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 20px 70px 20px 70px;
+}
+.navbar
+{
+    color: white;
+    display: flex;
+    gap: 50px;
+    /* margin: auto; */
+  position: absolute;
+  top: 2rem;
+  right: 6rem;
+   margin: auto;
+   
+
+}
+
+.container
+{
+    color: white;
+ 
+position: absolute;
+margin: auto;
+top:10rem;
+bottom: 0;
+left:0;
+right:0;
+display: flex;
+flex-direction: column;
+align-items:flex-end;
+}
+.one{
+background-image: url("pic-1.png");
+background-size: cover;
+width:15rem;
+height: 15rem;
+border-radius: 25px;
+}
+.two{
+    background-image: url("pic-2.png");
+    background-size: cover;
+width:15rem;
+height: 15rem;
+border-radius: 25px;
+}
+
+.three{
+    background-image: url("pic-3.png");
+    background-size: cover;
+   
+width:15rem;
+height: 15rem;
+border-radius: 25px;
+}
+
+.four{
+    background-image: url("pic-4.png");
+    background-size: cover;
+width:15rem;
+height: 15rem;
+border-radius: 25px;
+}
+
+
+.onetwo
+{
+    display: flex;
+
+
+    gap:80px;
+    margin-right: 40px;
+   
+  
+   
+}
+
+.threefour
+{
+    display: flex;
+    gap:80px;
+    margin-right: 40px;
+ 
+  
+}
+
+.subhead
+{
+    position: relative;
+    left:10px;
+}
+
+.one:hover
+{
+    transform:translateY(-10px);
+    transition-duration: 1s;
+    cursor: pointer;
+}
+.two:hover
+{
+    transform:translateY(-10px);
+    transition-duration: 1s;
+    cursor: pointer;
+}
+.three:hover
+{
+    transform:translateY(-10px);
+    transition-duration: 1s;
+    cursor: pointer;
+}
+.four:hover
+{
+    transform:translateY(-10px);
+    transition-duration: 1s;
+    cursor: pointer;
+}
+.hover:hover
+{
+   background-color: white;
+   color: black;
+   border-radius: 10px;
+   transform:translateX(4px);
+   transition-duration: 1s;
+   padding: 2px 5px 2px 5px;
+   cursor: pointer;
+}
+.menu:hover
+{
+    /* background-color: white; */
+    transform:translateY(4px);
+    transition-duration: 1s;
+    cursor: pointer;
+}
+
+.explore:hover
+{
+ background-color:white;
+ color: black;
+ cursor: pointer;
+
+}
+a{
+text-decoration: none ;
+color: black;
+
+}
+
+ .logo img:hover
+{
+height: 60px;
+transition-duration: 1s;
+cursor: pointer;
+}
