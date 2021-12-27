@@ -1,0 +1,190 @@
+
+body{
+    background-color: chartreuse;
+}.firstrow
+{
+    display: flex;
+    
+ gap:50px;
+ justify-content: center;
+ 
+
+}
+.secondrow
+{
+    padding-top: 10px;
+    display: flex;
+    
+ gap:50px;
+ justify-content: center;
+}
+.thirdrow
+{
+    padding-top: 10px;
+    display: flex;
+    
+ gap:50px;
+ justify-content: center;
+}
+.fourthrow
+{
+    padding-top: 10px;
+    display: flex;
+    
+ gap:50px;
+ justify-content: center;
+}
+h1{
+    text-align: center;
+}
+
+.num
+{
+position: relative;
+left: 20px;
+top: 100px;
+}
+a
+{
+
+font-size: larger;
+text-align: center;
+display:block; 
+position: relative;
+top:10px;
+}
+.first{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    animation-name: box1;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+@keyframes box1 
+{
+    0%{
+        transform: skewX(-30deg);
+    }
+
+    50%{
+        transform: skewX(30deg);
+  
+    }
+
+    100%
+        {
+            transform: skewX(-30deg);
+      
+        }
+    
+
+}
+
+.second{
+    
+    background-color:yellow;
+    height: 100px;
+    width: 100px;
+    animation-name: box2;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+
+}
+@keyframes box2
+{
+    0%{
+        transform: skewY(-30deg);
+    }
+
+    50%{
+        transform: skewY(30deg);
+  
+    }
+
+    100%
+        {
+            transform: skewY(-30deg);
+      
+        }
+    
+
+}
+
+
+
+.third{
+    background-color:yellowgreen;
+    height: 100px;
+    width: 100px;
+    animation-name: box3;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+
+}
+@keyframes box3
+{
+    100%
+    {
+        transform:rotate(180deg);
+  
+    }
+ 
+}
+.fourth{
+    background-color: violet;
+    height: 100px;
+    width: 100px;
+    animation-name: box4;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+
+}
+@keyframes box4
+{
+    50%
+    {
+        transform:scaleY(0.5);
+  
+    }
+ 
+}
+
+.fourth1{
+    background-color: violet;
+    height: 100px;
+    width: 100px;
+    animation-name: box5;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+
+}
+@keyframes box5
+{
+    50%
+    {
+        transform:scaleX(0.5);
+  
+    }
+ 
+}
+
+.fourth2{
+    background-color: violet;
+    height: 100px;
+    width: 100px;
+    animation-name: box6;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+
+
+}
+@keyframes box6
+{
+    50%
+    {
+        transform:rotate(120deg);
+  
+    }
+ 
+}

@@ -1,0 +1,124 @@
+body
+{
+    background-color:khaki;
+}
+h1{
+    text-align: center;
+}
+.container
+{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left:45%;
+    transition: transform 2s;
+}
+.container:hover
+{
+    transform: translateX(-60px);
+}
+.num
+{
+    position: relative;
+    right: 20px;
+    top:40px;
+
+}
+
+.first
+{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    transition: width 2s;
+   
+}
+
+.first:hover
+{
+
+    width: 300px;
+}
+.second
+{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    transition: width 2s,height 4s;
+  
+}
+
+
+.second:hover
+{
+    width: 300px;
+    height: 300px;
+}
+.third
+{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    transition: width 2s linear;
+}
+
+.third:hover
+{
+
+    width: 300px;
+}
+
+.fourth
+{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    transition: width 2s ease;
+}
+
+.fourth:hover
+{
+
+    width: 300px;
+}
+
+.fifth
+{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    transition: width 2s ease-in;
+}
+
+.fifth:hover
+{
+
+    width: 300px;
+}
+.sixth
+{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    transition: width 2s ease-out;
+}
+
+.sixth:hover
+{
+
+    width: 300px;
+}
+
+.seventh
+{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    transition: width 2s ease-in-out;
+}
+
+.seventh:hover
+{
+
+    width: 300px;
+}
